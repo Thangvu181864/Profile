@@ -1,6 +1,6 @@
 # Hi, I’m Thang Vu!   <img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="64px" height="64px" alt="totoro">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&multiline=true&width=800&lines=%F0%9F%91%A8+My+name+is+Thang+Vu+and+I'm+studying+Information+Technology+at+HUCE+class+of+2024)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?width=650&lines=I'm+studying+Information+Technology+at+HUCE+class+of+2024.)
 
 ## Web Front-end:
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
