@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
 
 ## 📈 Github Stats
-<img src="https://github.com/Thangvu181864/Thangvu181864/blob/snake/github-contribution-grid-snake.gif">
+<img src="https://github.com/Thangvu181864/Thangvu181864/blob/snake/github-contribution-grid-snake.svg">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thangvu181864&theme=tokyonight&layout=compact&langs_count=6">
 <img src="https://github-readme-stats.vercel.app/api?username=Thangvu181864&theme=tokyonight&show_icons=true&count_private=true">
 
